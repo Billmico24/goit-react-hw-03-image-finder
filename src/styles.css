@@ -27,7 +27,7 @@ img {
 }
 
 /*
- * Стили компонента App
+ *App
  */
 .App {
   display: grid;
@@ -37,7 +37,7 @@ img {
 }
 
 /*
- * Стили компонента Searchbar
+ *Searchbar
  */
 
 
@@ -52,7 +52,7 @@ img {
 
 
 /*
- * Стили компонента Modal
+ *Modal
  */
 
 .Overlay {
@@ -74,7 +74,7 @@ img {
 }
 
 /*
-* Стили компонента Buton (Load more)
+*Buton (Load more)
 */
 .Button {
   padding: 8px 16px;
